@@ -31,3 +31,27 @@ Resourcess used to achieve the goal of the project are:
          then,
          to use this library in a project it have to be imported into the notebook like this;
          import numpy as np
+
+
+The goal of this project is to get an insightful strategy to upgrade their infrastructure to serve their mobile user more effectively.
+For effective service the dataset have to give insight of how frequent their service are used in cities for the period the data is collected,which cities had the most users during the business and home hours.
+
+To get the insight from dataset, the data have to be loaded to analyse it:
+    To load the dataset we create a variable to represent the dataset:
+    
+      df_cell = pd.read_csv('cell_geo.csv',delimiter =';')
+      
+      df_cellDescr = pd.read_excel('cells_geo_description.xlsx')
+      
+   This loads the cell goegraphical dataset and cell geographical description dataset respectively.
+   
+   Then load the telecom datasets:
+    
+      df_telc_1 = pd.read_csv('Telcom_dataset.csv')
+      
+      df_telc_2 = pd.read_csv('Telcom_dataset2.csv')
+      
+      df_telc_3 = pd.read_csv('Telcom_dataset3.csv')
+      
+    
+      
