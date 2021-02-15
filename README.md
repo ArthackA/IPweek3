@@ -11,6 +11,7 @@ Resourcess used to achieve the goal of the project are:
     6.Deployment.
   b). Python as the main programming language.
    Python Packages that are arequirement for this project are:
+   
     i). Pandas - Pandas is for Analysisng and extracting insight from raw data.
          To install Pandas to become available in the project:
          Conda pip install pandas
