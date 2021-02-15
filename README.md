@@ -1,8 +1,9 @@
 # moringaIp
 Data analysis with pandas
 This project Focuses on analysing data with CRISP-DM Methodology.
-Resourcess used to achieve the goal of the project are:
-  a).CRISP-DM has the following steps:
+Resourcess used to achieve the goal of the project are: 
+ 
+ a).CRISP-DM has the following steps:
     1.Business understanding.
     2.Data understanding.
     3.Data Preparation.
