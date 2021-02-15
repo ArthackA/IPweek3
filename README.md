@@ -4,13 +4,16 @@ This project Focuses on analysing data with CRISP-DM Methodology.
 Resourcess used to achieve the goal of the project are: 
  
  a).CRISP-DM has the following steps:
+ 
     1.Business understanding.
     2.Data understanding.
     3.Data Preparation.
     4.Modelling.
     5.Evaluation.
     6.Deployment.
-  b). Python as the main programming language.
+    
+ b). Python as the main programming language:
+  
    Python Packages that are arequirement for this project are:
    
     i). Pandas - Pandas is for Analysisng and extracting insight from raw data.
